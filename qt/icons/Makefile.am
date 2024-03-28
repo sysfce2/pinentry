@@ -24,3 +24,6 @@ EXTRA_DIST = data-error.svg \
 	     hint.svg \
 	     password-generate.svg \
              visibility.svg
+
+icons_DATA = document-encrypt.png
+iconsdir = $(datadir)/pixmaps
